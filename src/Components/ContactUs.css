@@ -1,0 +1,27 @@
+.contact-us-page {
+    padding: 20px;
+}
+
+
+
+.banner img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+
+.contact-info-container,
+.contact-form-container {
+    padding: 20px;
+    background-color: #fff; /* Set the background color of the containers */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for depth */
+    margin-top: 20px;
+}
+
+.section-title {
+    margin-bottom: 20px;
+}
+

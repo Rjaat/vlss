@@ -1,0 +1,26 @@
+
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.footer-column {
+    flex: 1;
+    margin: 10px;
+}
+
+.footer-heading {
+    font-weight: bold;
+}
+
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+/* Add media queries or additional styles for responsiveness as needed */
